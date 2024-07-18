@@ -1,1 +1,1 @@
-blur1
+off
